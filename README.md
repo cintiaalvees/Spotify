@@ -104,7 +104,8 @@ A presença em playlists é o principal motor de streams em todas as plataformas
 
 ## 📄 Documentação técnica
 
-A ficha técnica completa com dicionário de abas, fórmulas utilizadas e decisões metodológicas está disponível em [Ficha_Tecnica_Spotify.pdf].
+A ficha técnica completa com dicionário de abas, fórmulas utilizadas e decisões metodológicas está disponível em 📄 [Versão PDF estática](Dashboard_Spotify.pdf)
+[`docs/Ficha_Tecnica_Spotify.pdf`](Ficha_Tecnica_Spotify.pdf).
 
 ---
 
