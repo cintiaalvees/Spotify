@@ -36,7 +36,7 @@ spotify-analise/
 ## 🔗 Dashboard interativo
 
 👉 [Acesse o painel no Looker Studio](https://datastudio.google.com/reporting/233bf2de-1ff9-4c05-8b8d-361d913baf6c)
-📄 [Versão PDF estática](docs/Dashboard_Spotify.pdf)
+📄 [Versão PDF estática](Dashboard_Spotify.pdf)
 
 ---
 
@@ -104,7 +104,7 @@ A presença em playlists é o principal motor de streams em todas as plataformas
 
 ## 📄 Documentação técnica
 
-A ficha técnica completa com dicionário de abas, fórmulas utilizadas e decisões metodológicas está disponível em 📄 [Versão PDF estática](Dashboard_Spotify.pdf).
+A ficha técnica completa com dicionário de abas, fórmulas utilizadas e decisões metodológicas está disponível em ([`docs/Ficha_Tecnica_Spotify.pdf`](Ficha_Tecnica_Spotify.pdf)).
 
 ---
 
